@@ -1,0 +1,1 @@
+restart-computer -ComputerName 192.168.33.145 -force

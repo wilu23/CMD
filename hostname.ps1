@@ -1,0 +1,2 @@
+HOSTNAME.EXE
+#nazwa komputera
